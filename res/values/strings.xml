@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simondroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_juego">Juego</string>
+    <string name="texto_titulo">SimonDroid</string>
+    <string name="texto_subtitulo">¡Repite la secuencia de colores y supera el reto de la máquina!</string>
+    <string name="texto_btn_jugar">Jugar</string>
+    <string name="texto_btn_salir">Salir</string>
+
+</resources>
